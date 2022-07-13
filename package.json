@@ -1,0 +1,19 @@
+{
+  "name": "counter",
+  "version": "1.0.0",
+  "description": "Passenger Counter App",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncoderlk/passenger-counter.git"
+  },
+  "author": "Sithika Dangampala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ncoderlk/passenger-counter/issues"
+  },
+  "homepage": "https://github.com/ncoderlk/passenger-counter#readme"
+}
